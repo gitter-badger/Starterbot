@@ -24,7 +24,7 @@
         "display4Font": "Montserrat",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "arrowColor": "#188ef4"
       },
@@ -245,7 +245,9 @@
               "background-color": "black",
               "padding": "6px",
               "margin-top": "10px",
-              "border-radius": "5px"
+              "border-radius": "5px",
+              "display": "inline",
+              "box-shadow": "10px 0 0 black, -10px 0 0 black"
             },
             ".panel-text SPAN": {
               "color": "#f4f8fa"
