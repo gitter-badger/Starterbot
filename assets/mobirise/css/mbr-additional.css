@@ -989,15 +989,95 @@ body {
   color: #ffffff;
   text-align: center;
 }
-.cid-rlZqgIJWq3 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-rlZM9TN9m2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #f4f8fa;
 }
-.cid-rlZqgIJWq3 .card {
+.cid-rlZM9TN9m2 .accordion-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+}
+.cid-rlZM9TN9m2 .panel-group {
+  width: 100%;
+}
+.cid-rlZM9TN9m2 .panel-text,
+.cid-rlZM9TN9m2 .header-text,
+.cid-rlZM9TN9m2 .mbr-section-subtitle {
+  color: #8d97ad;
+}
+.cid-rlZM9TN9m2 .card {
+  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  margin-bottom: .5rem;
+  border: none;
+  border-top-left-radius: .25rem !important;
+  border-top-right-radius: .25rem !important;
+  border-bottom-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+.cid-rlZM9TN9m2 .card .card-header {
+  border-radius: 0 !important;
+  border-bottom: none !important;
+  padding: 0;
+}
+.cid-rlZM9TN9m2 .card .card-header a.panel-title {
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  transition: all .3s;
+  background-color: #ffffff;
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  text-decoration: none !important;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+  line-height: normal;
+}
+.cid-rlZM9TN9m2 .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rlZM9TN9m2 .card .card-header a.panel-title .sign {
+  padding-right: 1rem;
+}
+.cid-rlZM9TN9m2 .card .card-header a.panel-title h4 {
+  padding: 1rem 1rem;
+  margin-bottom: 0;
+  width: 100%;
+}
+.cid-rlZM9TN9m2 .card .card-header a.panel-title[aria-expanded="true"] {
+  background-color: #188ef4;
+}
+.cid-rlZM9TN9m2 .card .card-header a.panel-title[aria-expanded="true"] .header-text {
+  color: #ffffff !important;
+}
+.cid-rlZM9TN9m2 .card .panel-body {
+  background: #ffffff;
+}
+.cid-rlZM9TN9m2 .sign {
+  color: #232323;
+}
+.cid-rlZM9TN9m2 .header-text {
+  text-align: center;
+}
+.cid-rlZM9TN9m2 .panel-text I {
+  color: #000000;
+}
+.cid-rlZM9TN9m2 .panel-text {
+  text-align: center;
+}
+.cid-rlZSefiSAg {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background-color: #f4f8fa;
+}
+.cid-rlZSefiSAg .card {
   padding: 1rem 1rem 1rem 1rem;
 }
-.cid-rlZqgIJWq3 .card-title {
+.cid-rlZSefiSAg .card-title {
   padding: .5rem 1rem .5rem 6.5rem;
   margin-left: -2rem;
   margin-bottom: 0;
@@ -1005,7 +1085,7 @@ body {
   border-top-right-radius: .25rem;
   border-bottom-right-radius: .25rem;
 }
-.cid-rlZqgIJWq3 .card-header {
+.cid-rlZSefiSAg .card-header {
   display: flex;
   -webkit-align-items: center;
   align-items: center;
@@ -1014,7 +1094,7 @@ body {
   border: none;
   padding-bottom: 2rem;
 }
-.cid-rlZqgIJWq3 .card-img {
+.cid-rlZSefiSAg .card-img {
   position: absolute;
   width: 60px;
   height: 60px;
@@ -1023,37 +1103,37 @@ body {
   background: #ffffff;
   display: flex;
 }
-.cid-rlZqgIJWq3 .card-img img {
+.cid-rlZSefiSAg .card-img img {
   width: 100%;
   min-width: 100%;
   min-height: 100%;
 }
-.cid-rlZqgIJWq3 .card-text,
-.cid-rlZqgIJWq3 .mbr-subtitle {
+.cid-rlZSefiSAg .card-text,
+.cid-rlZSefiSAg .mbr-subtitle {
   color: #8d97ad;
 }
-.cid-rlZqgIJWq3 .card-sign {
+.cid-rlZSefiSAg .card-sign {
   padding-top: .5rem;
 }
-.cid-rlZqgIJWq3 .underline .line {
+.cid-rlZSefiSAg .underline .line {
   width: 5rem;
   height: 1px;
   background: #efefef;
   display: inline-block;
 }
-.cid-rlZqgIJWq3 .mbr-section-btn {
+.cid-rlZSefiSAg .mbr-section-btn {
   margin-left: 0;
 }
 @media (max-width: 767px) {
-  .cid-rlZqgIJWq3 .card-title {
+  .cid-rlZSefiSAg .card-title {
     text-align: center;
   }
-  .cid-rlZqgIJWq3 p.mbr-text,
-  .cid-rlZqgIJWq3 p.date {
+  .cid-rlZSefiSAg p.mbr-text,
+  .cid-rlZSefiSAg p.date {
     text-align: center;
   }
 }
-.cid-rlZqgIJWq3 .card-box {
+.cid-rlZSefiSAg .card-box {
   background: #ffffff;
   padding: 2rem 2rem;
   -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
