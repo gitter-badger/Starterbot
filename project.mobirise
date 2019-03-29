@@ -50,7 +50,7 @@
         "main": true,
         "title": "Starterbot",
         "meta_descr": "A Discord bot command handler designed to get the hassles out of the way",
-        "header_custom": "<meta property=\"og:title\" content=\"Starterbot\">\n<meta property=\"og:image\" content=\"https://starterbot.js.org/assets/images/bot-128x128.png\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:site_name\" content=\"Starterbot\"/>\n<meta property=\"og:keywords\" content=\"Discord, JavaScript, Discord.js, Andre Jarrell\"/>\n<meta property=\"og:locale\" content=\"en-US\"/>\n<meta property=\"og:description\" content=\"A Discord bot command handler designed to get the hassles out of the way\">\n<meta name=\"theme-color\" content=\"#0080FF\"/>",
+        "header_custom": "<meta property=\"og:image\" content=\"https://starterbot.js.org/assets/images/bot-128x128.png\"/>\n<meta property=\"og:type\" content=\"website\"/>\n<meta property=\"og:keywords\" content=\"Discord, JavaScript, Discord.js, Andre Jarrell\"/>\n<meta property=\"og:locale\" content=\"en-US\"/>\n<meta property=\"og:description\" content=\"A Discord bot command handler designed to get the hassles out of the way\">\n<meta name=\"theme-color\" content=\"#f0db4f\"/>",
         "footer_custom": "",
         "html_before": ""
       },
