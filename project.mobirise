@@ -49,7 +49,7 @@
       "settings": {
         "main": true,
         "title": "Starterbot",
-        "meta_descr": "",
+        "meta_descr": "A Discord bot command handler designed to get the hassles out of the way",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
