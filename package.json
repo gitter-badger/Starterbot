@@ -1,7 +1,7 @@
 {
   "name": "starterbot",
   "version": "1.0.0",
-  "description": "A Discord bot command handler designed to get the hastles out of the way",
+  "description": "A Discord bot command handler designed to get the hassles out of the way",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
