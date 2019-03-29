@@ -1,0 +1,26 @@
+{
+  "name": "starterbot",
+  "version": "1.0.0",
+  "description": "A Discord bot command handler designed to get the hastles out of the way",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejarrell/Starterbot.git"
+  },
+  "author": "Andre Jarrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrejarrell/Starterbot/issues"
+  },
+  "homepage": "https://github.com/andrejarrell/Starterbot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "edit-json-file": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "ms-to-time": "^1.0.0",
+    "platform": "^1.3.5"
+  }
+}

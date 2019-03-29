@@ -1,0 +1,7 @@
+module.exports = {
+    name: 'example',
+    desc: 'Put your own description here',
+    run(bot, msg, args, conf, embed) {
+        //code here
+    }
+};
