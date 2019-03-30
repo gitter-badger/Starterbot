@@ -1079,6 +1079,87 @@ body {
 .cid-rlZM9TN9m2 .panel-text SPAN {
   color: #f4f8fa;
 }
+.cid-rmaqQ2RgOH {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f4f8fa;
+}
+.cid-rmaqQ2RgOH .accordion-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+}
+.cid-rmaqQ2RgOH .panel-group {
+  width: 100%;
+}
+.cid-rmaqQ2RgOH .panel-text,
+.cid-rmaqQ2RgOH .header-text,
+.cid-rmaqQ2RgOH .mbr-section-subtitle {
+  color: #8d97ad;
+}
+.cid-rmaqQ2RgOH .card {
+  -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  margin-bottom: .5rem;
+  border: none;
+  border-top-left-radius: .25rem !important;
+  border-top-right-radius: .25rem !important;
+  border-bottom-right-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+.cid-rmaqQ2RgOH .card .card-header {
+  border-radius: 0 !important;
+  border-bottom: none !important;
+  padding: 0;
+}
+.cid-rmaqQ2RgOH .card .card-header a.panel-title {
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  transition: all .3s;
+  background-color: #ffffff;
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  text-decoration: none !important;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+  line-height: normal;
+}
+.cid-rmaqQ2RgOH .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rmaqQ2RgOH .card .card-header a.panel-title .sign {
+  padding-right: 1rem;
+}
+.cid-rmaqQ2RgOH .card .card-header a.panel-title h4 {
+  padding: 1rem 1rem;
+  margin-bottom: 0;
+  width: 100%;
+}
+.cid-rmaqQ2RgOH .card .card-header a.panel-title[aria-expanded="true"] {
+  background-color: #188ef4;
+}
+.cid-rmaqQ2RgOH .card .card-header a.panel-title[aria-expanded="true"] .header-text {
+  color: #ffffff !important;
+}
+.cid-rmaqQ2RgOH .card .panel-body {
+  background: #ffffff;
+}
+.cid-rmaqQ2RgOH .sign {
+  color: #232323;
+}
+.cid-rmaqQ2RgOH .header-text {
+  text-align: center;
+}
+.cid-rmaqQ2RgOH .panel-text {
+  text-align: center;
+}
+.cid-rmaqQ2RgOH .command {
+  text-align: center;
+  border-radius: 5px;
+}
 .cid-rm0n5WBxkr {
   padding-top: 0px;
   padding-bottom: 60px;
