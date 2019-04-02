@@ -20,6 +20,8 @@ let choices = [
     },
 ];
 
+console.log('Make sure to create an application over at: https://discordapp.com/developers/applications/');
+
 inquirer.prompt(choices).then(data => {
     config.set('prefix', data.prefix);
     config.set('ownerid', data.ownerid);
