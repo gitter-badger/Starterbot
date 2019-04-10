@@ -1,1 +1,1 @@
-## Head over to the [Wiki](https://github.com/andrejarrell/Starterbot/wiki) to get started!
+## Head over to the [Wiki](https://starterbot.js.org/wiki/) to get started!
